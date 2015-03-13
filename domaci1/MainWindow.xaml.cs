@@ -29,8 +29,8 @@ namespace domaci1
         {
             this.LiviBotun.Click += new RoutedEventHandler(LiviBotun_Click);
             this.DesniBotun.Click += new RoutedEventHandler(DesniBotun_Click);
-
         }
+
 
         private void DesniBotun_Click(object sender, RoutedEventArgs e)
         {
@@ -52,5 +52,7 @@ namespace domaci1
                 Fill=Brushes.Green
             });
         }
+
+
     }
 }
