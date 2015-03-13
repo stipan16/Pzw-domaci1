@@ -29,6 +29,8 @@
             <Rectangle Width="70" Height="70" Margin="5" Fill="Orange"></Rectangle>
             <Rectangle Width="70" Height="70" Margin="5"  Fill="Orange"></Rectangle>
             <Rectangle Width="70" Height="70" Margin="5" Fill="Orange"></Rectangle>
+
+            <Rectangle Width="70" Height="70" Margin="5" Fill="Orange"></Rectangle>
             <Rectangle Width="70" Height="70" Margin="5"  Fill="Orange"></Rectangle>
         </StackPanel>
 
